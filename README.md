@@ -1,38 +1,79 @@
 # Lawrence Magee
 
-**AI Solutions Architect & Multi-Agent Systems Engineer**
+**AI systems builder · product-minded technologist · U.S. Army IT veteran**
 
-20-year U.S. Army IT veteran turned AI product builder. I design, orchestrate, and ship production systems using multi-agent AI pipelines — from architecture through deployment. Currently building under [MAGE Software](https://github.com/lmagee3/lawrence-magee-cv) (Malleus Prendere LLC).
+I build practical AI-native tools for operators, founders, students, and small teams. My work sits at the intersection of **AI automation, product architecture, local-first workflows, cybersecurity, and operational execution**.
 
-MBA — Acquisitions & Contract Management (Bellevue University, 2026) · BS Cybersecurity (University of Maryland) · Secret Clearance Eligible · SDVOSB-Qualified
+I spent 20 years in U.S. Army IT and network operations, then moved into AI product building, full-stack systems, and multi-agent development workflows. I am currently building under **MAGE Software / Malleus Prendere LLC**, with a focus on tools that turn scattered information into usable action.
 
-U.S. Citizen · Open to relocation (AU/NZ preferred)
-
----
-
-### Shipped Products
-
-| Product | What It Does | Stack |
-|---------|-------------|-------|
-| [**Ground Truth**](https://github.com/lmagee3/ground-truth) | Geopolitical context engine — 9 primary source integrations, AI synthesis, verification pipeline | Python, FastAPI, PostgreSQL, React 18, Ollama, SSE |
-| [**Error Radar**](https://github.com/lmagee3/error-radar) | VS Code extension — workspace-wide diagnostics panel | TypeScript, VS Code Extension API |
-| [**Chaos Monk**](https://github.com/lmagee3/chaos-monk) | Notion workspace indexer — local-first, zero dependencies | Python, Notion API |
-| **Kairos** | iOS mental health AI assistant with voice synthesis | Swift, Claude API, ElevenLabs TTS |
-| **module_09** | AI-native desktop command center with local LLM routing | Tauri/Rust, React 18, FastAPI, Ollama |
-
-### What I Do
-
-I architect AI-powered systems and manage multi-agent development pipelines to ship production software. My workflow orchestrates specialized AI agents across architecture, implementation, QA, and deployment — each with defined scope, handoff protocols, and quality gates. I don't just prompt AI; I build the systems that make AI productive at scale.
-
-**Core competencies:** Multi-agent orchestration · AI/LLM integration (Claude, OpenAI, Gemini, Ollama) · API-first architecture · Python/FastAPI · React/TypeScript · Cloud infrastructure · Data pipeline design · Voice AI (ElevenLabs, TTS) · Federal/defense IT systems
-
-### Background
-
-- 20 years U.S. Army — IT Specialist, Network & Operations Lead, deployed infrastructure across multiple theaters
-- Cybersecurity foundation (UMD) + business strategy (MBA, Bellevue)
-- Built and shipped 5 production products in 3 months using AI-native development methods
-- Experience spans: cloud architecture, network operations, system administration, security, and full-stack development
+MBA — Acquisitions & Contract Management, Bellevue University · BS Cybersecurity, University of Maryland Global Campus · U.S. Army veteran · SDVOSB-qualified
 
 ---
 
-📄 [Full CV & Portfolio](https://github.com/lmagee3/lawrence-magee-cv) · 🔗 [LinkedIn](https://linkedin.com/in/lawrencemagee) · 🛠 [Chaos Monk](https://chaosmonk.netlify.app)
+## Current Focus
+
+- **AI productivity systems** — command centers, task routing, workflow automation, and agent-assisted execution
+- **AI evaluation and context engines** — tools that help verify, structure, and explain complex information
+- **Developer utilities** — small, sharp tools that reduce friction for builders
+- **Local-first product design** — privacy-aware systems that keep sensitive work close to the user
+- **Federal / defense-adjacent technology** — practical systems thinking shaped by military IT experience
+
+---
+
+## Featured Work
+
+| Project | What it is | Why it matters |
+|---|---|---|
+| [**AI Productivity Stack**](https://github.com/lmagee3/ai-productivity-stack) | Multi-agent operating model for AI-assisted product development | Shows how I structure AI agents, handoffs, QA, and human-in-the-loop execution |
+| [**Ground Truth**](https://github.com/lmagee3/ground-truth) | Geopolitical context and source-verification engine | Demonstrates my interest in structured intelligence, primary-source research, and AI-assisted analysis |
+| [**Error Radar**](https://github.com/lmagee3/error-radar) | VS Code extension for workspace-wide diagnostics | A practical developer tool: find errors and warnings across a project without hunting file by file |
+| [**Chaos Monk**](https://github.com/lmagee3/chaos-monk) | Local-first Notion workspace indexer | A small productized tool built around clarity, privacy, and operational usefulness |
+| [**CV / Portfolio**](https://github.com/lmagee3/lawrence-magee-cv) | Resume and professional materials | Central place for my background, experience, and positioning |
+
+Some active product work is private while it matures, including iOS, mental-health companion, dating/product matching, and internal business operations systems.
+
+---
+
+## How I Work
+
+I use AI as part of the engineering and product workflow, not as a shortcut around thinking. My typical build process looks like this:
+
+```text
+Problem framing → architecture → implementation → independent review → triage → shipping notes
+```
+
+That means I care about more than getting code to run. I care about whether the system is understandable, maintainable, testable, and useful to the person who actually has to live with it.
+
+---
+
+## Technical Areas
+
+**Languages & frameworks**  
+Python · FastAPI · TypeScript · React · Swift / SwiftUI · Rust / Tauri · SQL
+
+**AI / automation**  
+LLM integration · multi-agent workflows · local LLMs with Ollama · prompt and handoff design · AI-assisted QA · retrieval and context systems
+
+**Systems background**  
+Cybersecurity · network operations · cloud concepts · API-first design · documentation · operational planning
+
+**Product strengths**  
+Founder-style execution · user workflow design · technical storytelling · requirements breakdown · business feasibility thinking
+
+---
+
+## Background
+
+- 20 years U.S. Army IT experience across infrastructure, networks, operations, and support environments
+- Cybersecurity degree with graduate work in acquisitions, contracts, and business strategy
+- Building AI-native products and tools under MAGE Software / Malleus Prendere LLC
+- Interested in remote AI, automation, technical product, solutions architecture, and defense-adjacent technology opportunities
+
+---
+
+## Contact
+
+- GitHub: [@lmagee3](https://github.com/lmagee3)
+- LinkedIn: [linkedin.com/in/lawrencemagee](https://linkedin.com/in/lawrencemagee)
+- Portfolio / CV: [lawrence-magee-cv](https://github.com/lmagee3/lawrence-magee-cv)
+- Product line: [Chaos Monk](https://chaosmonk.netlify.app)
