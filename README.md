@@ -74,6 +74,6 @@ Founder-style execution · user workflow design · technical storytelling · req
 ## Contact
 
 - GitHub: [@lmagee3](https://github.com/lmagee3)
-- LinkedIn: [linkedin.com/in/lawrencemagee](https://linkedin.com/in/lawrencemagee)
+- LinkedIn: [linkedin.com/in/lawrencemagee](https://www.linkedin.com/in/lawrencemagee/)
 - Portfolio / CV: [lawrence-magee-cv](https://github.com/lmagee3/lawrence-magee-cv)
 - Product line: [Chaos Monk](https://chaosmonk.netlify.app)
