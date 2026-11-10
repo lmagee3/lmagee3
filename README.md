@@ -30,7 +30,7 @@ MBA — Acquisitions & Contract Management, Bellevue University · BS Cybersecur
 | [**Chaos Monk**](https://github.com/lmagee3/chaos-monk) | Local-first Notion workspace indexer | A small productized tool built around clarity, privacy, and operational usefulness |
 | [**CV / Portfolio**](https://github.com/lmagee3/lawrence-magee-cv) | Resume and professional materials | Central place for my background, experience, and positioning |
 
-Some active product work is private while it matures, including iOS, mental-health companion, dating/product matching, and internal business operations systems.
+Some active product work is private while it matures, including iOS, mental-health companion, dating/product matching, autonomous flight systems, and internal business operations systems.
 
 ---
 
@@ -74,6 +74,6 @@ Founder-style execution · user workflow design · technical storytelling · req
 ## Contact
 
 - GitHub: [@lmagee3](https://github.com/lmagee3)
-- LinkedIn: [linkedin.com/in/lawrencemagee](https://linkedin.com/in/lawrencemagee)
+- LinkedIn: [linkedin.com/in/lawrencemagee](https://www.linkedin.com/in/lawrencemagee/)
 - Portfolio / CV: [lawrence-magee-cv](https://github.com/lmagee3/lawrence-magee-cv)
 - Product line: [Chaos Monk](https://chaosmonk.netlify.app)
